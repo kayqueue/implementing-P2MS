@@ -1,7 +1,7 @@
 Grade: 98/100
 
 # Goal:
-- Implement programs creating/executing P2MS script using Pycryptodome package
+Implement programs creating/executing P2MS script using Pycryptodome package
 
 
 - Randomly generate 4 pairs of DSA 2048 bits PK/SK under thge same publikc parameters (g, p, q)
